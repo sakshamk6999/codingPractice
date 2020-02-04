@@ -1,0 +1,33 @@
+Jatin is shopping for groceries in a super mart.
+There's an offer in the mall in which if the total purchase done by a customer is a multiple of a number m,
+then the customer will get a massive cashback !
+There's a condition though, the customer should buy exactly n items (Note that the customer can buy the same product
+multiple times)
+There are l different types of products available for purchase (Each category has an infinite amount of products),
+the cost of all the l items is provided.
+Jatin is also a geek and wonders how many possible ways are there to purchase items in such a way that he could get the
+cashback
+Help him find the number of ways possible to make the purchase !
+As this number can be large, you need to print the answer modulo 1000000007.
+
+INPUT
+
+The first line of input contains integers n, m, and l.
+The second line of the input contains l spaced integers denoting the cost of each product type.
+
+OUTPUT
+
+You have to print one line, the number of ways to purchase the items in order to get the cashback, modulo 1000000007.
+
+CONSTRAINTS
+1 <= n <= 1e5
+1 <= m <= 10
+1 <= l <= 1e5
+1 <= li <= 1e9
+
+Sample Input
+2 3 3
+1 2 3
+
+Sample Output
+3

@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff867b2e-b4cd-40c6-8d74-3b58df5d290b" name="Default Changelist" comment="" />
+    <list default="true" id="ff867b2e-b4cd-40c6-8d74-3b58df5d290b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/testcaseGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/testcasesThird/input/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/testcasesThird/input/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/testcasesThird/input/input13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/testcasesThird/input/input14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/testcasesThird/input/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/testcasesThird/output/output0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/testcasesThird/output/output1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/testcasesThird/output/output13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/testcasesThird/output/output14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/testcasesThird/output/output2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/third.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodathonQuestions/thirdBruteForce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/615/B. Collecting Packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/615/C. Product of Three Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/615/CollectingCoins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/615/D. MEX maximizing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/616/A. Even But Not Even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/616/B.ArraySharpening.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EducationalRound81/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EducationalRound81/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EducationalRound81/B2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodByeYear/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodByeYear/A. Card Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodByeYear/B. Interesting Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodByeYear/C. Make Good.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/A. Vacations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/A.Boredome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/A.CutRibbon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/A.TwoSubstrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/B.TwoButtons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/C. Ayoub and Lost Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/C. Given Length and Sum of Digits....py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/C.Exams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/C.KefaAndPark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/C.NumberOfWays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/C.RegistrationSystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/D.Queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/D.Taxes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/D2. RGB Substring (hard version).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Woodcutters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/dp/D.Flowers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/dp/TwoArrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/.idea/dataStruct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/HackerEarth/A. Deadline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/HackerEarth/BYet Another Meme Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/HackerEarth/Chefina and Prefix Suffix Sums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/HackerEarth/fenwickTree/GCDSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/HackerEarth/segmentTree/BobAndArrayQueries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/HackerEarth/segmentTree/ZerosandOnes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/HackerEarth/segmentTree/easyQueries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/HackerEarth/segmentTree/rangeMinQuery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/HackerEarth/trie/CostOfData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/HackerEarth/trie/WordQueries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/HackerEarth/trie/searchEngine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/PhoneDirectory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dataStruct/trie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodByeYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/goodByeYear/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +86,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Ph29RZdUqPqeVBPK3CLfAtdpz4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codechef" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="F:/Sunpy" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -37,8 +113,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.E.NearestOppositeParty">
-    <configuration name="A.ThreeFriends" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.A.CutRibbon">
+    <configuration name="A. Even But Not Even" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeforces" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/605" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/616" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/605/A.ThreeFriends.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/616/A. Even But Not Even.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="B.SnowWalkingRobot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="A. Vacations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeforces" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/605" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/605/B.SnowWalkingRobot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/A. Vacations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="C.BrokenKeyboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="A.CutRibbon" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeforces" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/605" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/605/C.BrokenKeyboard.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/A.CutRibbon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="D.RemoveOneElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="B.ArraySharpening" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeforces" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/605" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/616" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/605/D.RemoveOneElement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/616/B.ArraySharpening.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="E.NearestOppositeParty" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="D.Queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeforces" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +206,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/605" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/605/E.NearestOppositeParty.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/D.Queue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.E.NearestOppositeParty" />
-        <item itemvalue="Python.D.RemoveOneElement" />
-        <item itemvalue="Python.C.BrokenKeyboard" />
-        <item itemvalue="Python.B.SnowWalkingRobot" />
-        <item itemvalue="Python.A.ThreeFriends" />
+        <item itemvalue="Python.A.CutRibbon" />
+        <item itemvalue="Python.A. Even But Not Even" />
+        <item itemvalue="Python.B.ArraySharpening" />
+        <item itemvalue="Python.A. Vacations" />
+        <item itemvalue="Python.D.Queue" />
       </list>
     </recent_temporary>
   </component>
@@ -165,5 +241,18 @@
       <updated>1566311855580</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
